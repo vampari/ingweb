@@ -1,7 +1,8 @@
-1213
-
-1
-	2
-		3
-			4
-				5
+-laravel 5.4
+-GIT
+-github (bitbucket,gitlab,etc)
+-php
+-bootstrap
+-MariaDB
+-Javascript (Jquery)
+-CSS
