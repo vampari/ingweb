@@ -6,3 +6,4 @@
 -MariaDB
 -Javascript (Jquery)
 -CSS
+-XAMPP
